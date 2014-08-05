@@ -1,4 +1,5 @@
 ray
-===i love pissa , movie and music
+===
 
 GitHub to communicate
+how to be a great programmer!
