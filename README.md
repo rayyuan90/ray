@@ -1,5 +1,7 @@
 ray
-===
+=== 
 
 GitHub to communicate
-how to be a great programmer!
+
+i love :soccer:,:pizza:,:dancer:.
+
