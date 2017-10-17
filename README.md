@@ -4,6 +4,7 @@ ray
 Self Introduction.
 
 WHAT I KNOW
+
 Primiry good at Angular.js jQuery Framework, Html, CSS, Sass. with strong foundation and knowledge about base JavaScript. Has write many prototype JavaScript to suit for different Web Browser. 
 
 With great exprience in PC+Mobile and Hibird App(ionic) development. Know well about React,React-Native,Node.js(also express.js framework). Has used these technolege in our project for some module.Using Atom+Nuclide IDE and watchman + flow to run and diagnose code when debug,and Redux to manage the state tree for different component. I believe the React + React-Native (learn once and write everywhere) can really change the Front-End industry, as it works well to build SPA and native app. 
@@ -15,6 +16,7 @@ Good With WebPack Publishing tool.
 -------------------------------------------------------
 
 WHO I AM
+
 Self-motivated, self-taught quick learner. That's how i defined myself.
 
 Always set a higher ambition to life and work and together with strong responsibility. Glad to take any responsibility in my job. Ready to help anyone who's in need. Loving new technology and believe that it will make our life better and better.
@@ -23,5 +25,5 @@ Always set a higher ambition to life and work and together with strong responsib
 
 Being a programmer and think like a programmer.Take responsibility for your code. And make it more convenient,readable ,reusable and a better customer experience. 
 
-i love :movie:,:IT:,:music:,"technolege".
+i love front-end and being a full-stack web developer.
 
