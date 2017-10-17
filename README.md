@@ -19,7 +19,7 @@ WHO I AM
 
 Self-motivated, self-taught quick learner. That's how i defined myself.
 
-Always set a higher ambition to life and work and together with strong responsibility. Glad to take any responsibility in my job. Ready to help anyone who's in need. Loving new technology and believe that it will make our life better and better.
+Always set a higher ambition in life and work. Together with strong responsibility. Glad to take any responsibility in my job. Ready to help anyone who's in need. Loving new technology and believe that it will make our life better and better.
 
 "Technology Change The World". It did changed the ways we live in many aspects. Such as Smart Phone, Smart Watch,Google Glass,Virtual Reality (VR),Android TV etc, these new born technologies, not only change the way we communicate but also changed our perspective to the world. With much time i believe these technologies will finally change the way we think.
 
