@@ -5,7 +5,7 @@ Self Introduction.
 
 WHAT I KNOW
 
-Primiry good at Angular.js jQuery Framework, Html, CSS, Sass. with strong foundation and knowledge about base JavaScript. Has write many prototype JavaScript to suit for different Web Browser. 
+Primiry good at Angular.js jQuery Framework, HTML, CSS, Sass. with strong foundation and knowledge about base JavaScript. Has write many prototype JavaScript to suit for different Web Browser. 
 
 With great exprience in PC+Mobile and Hibird App(ionic) development. Know well about React,React-Native,Node.js(also express.js framework). Has used these technolege in our project for some module.Using Atom+Nuclide IDE and watchman + flow to run and diagnose code when debug,and Redux to manage the state tree for different component. I believe the React + React-Native (learn once and write everywhere) can really change the Front-End industry, as it works well to build SPA and native app. 
 
@@ -25,5 +25,5 @@ Always set a higher ambition in life and work. Together with strong responsibili
 
 Being a programmer and think like a programmer.Take responsibility for your code. And make it more convenient,readable ,reusable and a better customer experience. 
 
-i love front-end and being a full-stack web developer.
+i love front-end and being a Full-Stack Web Developer.
 
