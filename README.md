@@ -1,4 +1,4 @@
-ray
+Ray -- Full-stack web developer
 === 
 
 Self Introduction.
@@ -25,5 +25,5 @@ Always set a higher ambition in life and work. Together with strong responsibili
 
 Being a programmer and think like a programmer.Take responsibility for your code. And make it more convenient,readable ,reusable and a better customer experience. 
 
-i love front-end and being a Full-Stack Web Developer.
+I love front-end and being a Full-Stack Web Developer.
 
